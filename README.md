@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 EV Adoption Forecaster
 
 ## 📊 Advanced Electric Vehicle Adoption Prediction for Washington State Counties
@@ -197,3 +198,6 @@ For questions, issues, or feature requests:
 **🚀 Built with ❤️ for the future of electric vehicles**
 
 *Prepared for AICTE Internship Cycle 2 by S4F | Advanced Analytics & Predictive Modeling* 
+=======
+# EV-Project
+>>>>>>> 7878e9f7f9dcd304e92319039036e8d202392ad6
